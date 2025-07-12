@@ -35,9 +35,3 @@ This notebook includes:
 3. Clone or download this repo to adapt the pipeline for your own use cases.
 
 ---
-
-## ✏️ Author
-
-Sharath — Data Enthusiast with hands-on experience in **Python**, **Power BI**, and **Business Intelligence**.
-
----
