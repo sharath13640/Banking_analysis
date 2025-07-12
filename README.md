@@ -41,9 +41,3 @@ This notebook includes:
 Sharath — Data Enthusiast with hands-on experience in **Python**, **Power BI**, and **Business Intelligence**.
 
 ---
-
-## 📧 Contact
-
-Feel free to connect with me for collaboration or queries!
-
----
